@@ -1,11 +1,11 @@
 #ifndef GCODEEXPORT_H
 #define GCODEEXPORT_H
+#include <stdio.h>
 #include "libgeometry/gpoint.h"
 
 class PathContur;
 class DrillReader;
 class GShape;
-typedef struct _iobuf FILE;
 
 class GCodeExport {
 
