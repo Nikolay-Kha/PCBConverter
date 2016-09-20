@@ -1,1 +1,4 @@
-*.user
+Makefile
+PCBConverter
+build/
+src/src_moc/
