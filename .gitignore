@@ -1,4 +1,8 @@
 Makefile
 PCBConverter
+PCBConverter.app
 build/
 src/src_moc/
+.qmake.stash
+ui_pcbconverter.h
+
